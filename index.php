@@ -92,8 +92,8 @@
 						<!-- <script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe> -->
 
 						<!-- InstaWidget -->
-						<a href="https://instawidget.net/v/user/printzdesigns" id="link-68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7">@printzdesigns</a>
-						<script src="https://instawidget.net/js/instawidget.js?u=68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7&width=100%"></script>
+						<a href="https://instawidget.net/v/user/printzdesigns" id="link-a881d81b608fe7803abd403425fc51ebe0fb39ae7faa5277b453f3b81060ec06">@printzdesigns</a>
+						<script src="https://instawidget.net/js/instawidget.js?u=a881d81b608fe7803abd403425fc51ebe0fb39ae7faa5277b453f3b81060ec06&width=100%"></script>
 
 						</div>
 						<a href="https://www.instagram.com/printzdesigns/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
