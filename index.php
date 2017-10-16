@@ -27,9 +27,9 @@
 								</li>
 								<li>
 									<span>Palace</span>
-								</li>														
-							</ul>							
-						</div> 
+								</li>
+							</ul>
+						</div>
 					</div>
 					<div class="content-wrapper animation-element in-view">
 						<p>Whatever your space, you define it.</p>
@@ -42,7 +42,7 @@
 						<p class="go-ahead-subtitle">Be the first to check out the future of interior design</p>
 					</div>
 					<div class="form-wrapper">
-						<form action="https://printzdesigns.us16.list-manage.com/subscribe/post?u=de737b95e49a1186ea7190c90&amp;amp;id=4e23066323" class="form" data-name="Email Form" data-redirect="/thanks" id="email-form" method="post" name="email-form" redirect="/thanks" id="sign-me-form">
+						<form action="https://printzdesigns.us16.list-manage.com/subscribe/post?u=de737b95e49a1186ea7190c90&amp;amp;id=4e23066323" class="form" data-name="Email Form" data-redirect="/thanks" id="email-form" method="post" name="email-form" redirect="/index.php" id="sign-me-form">
 							<div class="form-input-wrapper">
 								<input class="text-field w-input animation-element in-view sign-inputs" data-name="Email" id="email" maxlength="256" name="email" placeholder="ENTER YOUR EMAIL" type="text" autocomplete="off">
 								<!-- <span class="incorrect-mssg">PLEASE ENTER CORRECT EMAIL</span> -->
@@ -72,9 +72,9 @@
 							<li>
 								<span class="index-number">03</span>
 								<h3>Share</h3>
-								<p>Work on rooms with friends and share your designs with our 
+								<p>Work on rooms with friends and share your designs with our
 								tight-knit community</p>
-							</li>														
+							</li>
 						</ul>
 						<ul class="mobile-pagination">
 							<li><span></span></li>
@@ -89,11 +89,10 @@
 						<h2>FOLLOW US</h2>
 						<div class="insta-plugin-container">
 						<!-- code insta plugin -->
-						<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>						
+						<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 						</div>
 						<a href="https://www.instagram.com/printzdesigns/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
 					</div>
 				</section>
 			</main>
-<? include("footer.php") ?>				
-
+<? include("footer.php") ?>
