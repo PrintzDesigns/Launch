@@ -14,9 +14,9 @@
 								<span class="index-number">01</span>
 								<h3>Practice</h3>
 								<span class="separate-line"></span>
-								<p>Help Printz clients save their DIY 
-								projects while you build your design 
-								skills answering questions and 
+								<p>Help Printz clients save their DIY
+								projects while you build your design
+								skills answering questions and
 								offering advice.</p>
 							</li>
 							<li>
@@ -30,7 +30,7 @@
 								<h3>Compensation</h3>
 								<span class="separate-line"></span>
 								<p>Accept client requests at your convenience, answer quick questions and earn additional revenue on the go.</p>
-							</li>														
+							</li>
 						</ul>
 						<ul class="mobile-pagination">
 							<li><span></span></li>
@@ -51,11 +51,16 @@
 						<h2>FOLLOW US</h2>
 						<div class="insta-plugin-container">
 						<!-- code insta plugin -->
-						<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>						
+						<!-- <script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>						 -->
+
+						<!-- InstaWidget -->
+						<!-- InstaWidget -->
+						<a href="https://instawidget.net/v/user/printzdesigns" id="link-33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7">@printzdesigns</a>
+						<script src="https://instawidget.net/js/instawidget.js?u=33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7&width=100%"></script>
+
 						</div>
 						<a href="https://www.instagram.com/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
 					</div>
 				</section>
 			</main>
-<? include("footer.php") ?>				
-
+<? include("footer.php") ?>
