@@ -42,7 +42,7 @@
 						<p class="go-ahead-subtitle">Be the first to check out the future of interior design</p>
 					</div>
 					<div class="form-wrapper">
-						<form action="https://printzdesigns.us16.list-manage.com/subscribe/post?u=de737b95e49a1186ea7190c90&amp;amp;id=4e23066323" class="form" data-name="Email Form" data-redirect="/thanks" id="email-form" method="post" name="email-form" redirect="/index.php" id="sign-me-form">
+						<form action="https://printzdesigns.us16.list-manage.com/subscribe/post?u=de737b95e49a1186ea7190c90&amp;amp;id=4e23066323" class="form" data-name="Email Form" data-redirect="/index.php" id="email-form" method="post" name="email-form" redirect="/index.php" id="sign-me-form">
 							<div class="form-input-wrapper">
 								<input class="text-field w-input animation-element in-view sign-inputs" data-name="Email" id="email" maxlength="256" name="email" placeholder="ENTER YOUR EMAIL" type="text" autocomplete="off">
 								<!-- <span class="incorrect-mssg">PLEASE ENTER CORRECT EMAIL</span> -->
@@ -89,7 +89,12 @@
 						<h2>FOLLOW US</h2>
 						<div class="insta-plugin-container">
 						<!-- code insta plugin -->
-						<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+						<!-- <script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe> -->
+
+						<!-- InstaWidget -->
+						<a href="https://instawidget.net/v/user/printzdesigns" id="link-68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7">@printzdesigns</a>
+						<script src="https://instawidget.net/js/instawidget.js?u=68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7&width=300px"></script>
+
 						</div>
 						<a href="https://www.instagram.com/printzdesigns/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
 					</div>
