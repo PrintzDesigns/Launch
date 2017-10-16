@@ -93,7 +93,7 @@
 
 						<!-- InstaWidget -->
 						<a href="https://instawidget.net/v/user/printzdesigns" id="link-68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7">@printzdesigns</a>
-						<script src="https://instawidget.net/js/instawidget.js?u=68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7&width=300px"></script>
+						<script src="https://instawidget.net/js/instawidget.js?u=68f010122eb63a96d9d0ebd8af9d6425579d5be2a0afd0d4141858ec7e73fca7&width=100%"></script>
 
 						</div>
 						<a href="https://www.instagram.com/printzdesigns/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
