@@ -55,8 +55,11 @@
 
 						<!-- InstaWidget -->
 						<!-- InstaWidget -->
-						<a href="https://instawidget.net/v/user/printzdesigns" id="link-33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7">@printzdesigns</a>
-						<script src="https://instawidget.net/js/instawidget.js?u=33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7&width=100%"></script>
+						<!-- <a href="https://instawidget.net/v/user/printzdesigns" id="link-33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7">@printzdesigns</a>
+						<script src="https://instawidget.net/js/instawidget.js?u=33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7&width=100%"></script> -->
+
+						<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+						<div class="elfsight-app-7762403d-2541-48ea-a505-76dd2c1726d2"></div>
 
 						</div>
 						<a href="https://www.instagram.com/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
