@@ -42,9 +42,9 @@
 						<p class="go-ahead-subtitle">Be the first to check out the future of interior design</p>
 					</div>
 					<div class="form-wrapper">
-						<form action="https://printzdesigns.us16.list-manage.com/subscribe/post?u=de737b95e49a1186ea7190c90&amp;amp;id=4e23066323" class="form" data-name="Email Form" data-redirect="/index.php" id="email-form" method="post" name="email-form" redirect="/index.php" id="sign-me-form">
+						<form action="https://printzdesigns.us16.list-manage.com/subscribe/post?u=de737b95e49a1186ea7190c90&amp;id=4e23066323" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 							<div class="form-input-wrapper">
-								<input class="text-field w-input animation-element in-view sign-inputs" data-name="Email" id="email" maxlength="256" name="email" placeholder="ENTER YOUR EMAIL" type="text" autocomplete="off">
+								<input class="text-field w-input animation-element in-view sign-inputs" data-name="Email" id="mce-EMAIL" maxlength="256" name="EMAIL" placeholder="ENTER YOUR EMAIL" type="text" autocomplete="off">
 								<!-- <span class="incorrect-mssg">PLEASE ENTER CORRECT EMAIL</span> -->
 							</div>
 							<span class="incorrect-mssg">PLEASE ENTER CORRECT EMAIL</span>
