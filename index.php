@@ -89,14 +89,14 @@
 						<h2>FOLLOW US</h2>
 						<div class="insta-plugin-container">
 						<!-- code insta plugin -->
-						<!-- <script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe> -->
+						<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/05bc48a789a05db799687426bd898723.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
 						<!-- InstaWidget -->
 						<!-- <a href="https://instawidget.net/v/user/printzdesigns" id="link-33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7">@printzdesigns</a>
 						<script src="https://instawidget.net/js/instawidget.js?u=33e07e54aa1100d73e8bcb90575328ced5bfe836bb6b7ceac5f8b74ca96083a7&width=100%"></script> -->
-
+<!--
 						<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-						<div class="elfsight-app-7762403d-2541-48ea-a505-76dd2c1726d2"></div>
+						<div class="elfsight-app-7762403d-2541-48ea-a505-76dd2c1726d2"></div> -->
 
 						</div>
 						<a href="https://www.instagram.com/printzdesigns/" class="hashtag" target="_blank">@PRINTZDESIGNS</a>
